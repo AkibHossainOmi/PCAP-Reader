@@ -1,3 +1,5 @@
 .vscode/
 bin
-PCAP-Reader.sln
+obj
+*.sln
+Using-Tshark-Shared-Library/Tshark-shared-Library
